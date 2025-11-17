@@ -1,0 +1,16 @@
+=== LIMPIEZA INICIADA: 2025-11-16 22:39:32 ===
+Espacio antes: 88M
+Comprimiendo: old_error.log
+  → Comprimido y eliminado: /backup/logs/old_error_20251116.tar.gz
+Comprimiendo: bootstrap.log
+  → Comprimido y eliminado: /backup/logs/bootstrap_20251116.tar.gz
+Comprimiendo: old_app.log
+  → Comprimido y eliminado: /backup/logs/old_app_20251116.tar.gz
+=== LIMPIEZA COMPLETADA: 2025-11-16 22:39:33 ===
+Espacio después: 88M (antes: 88M)
+Archivos respaldados en: /backup/logs
+=== LIMPIEZA INICIADA: 2025-11-16 22:44:12 ===
+Espacio antes: 36G
+=== LIMPIEZA COMPLETADA: 2025-11-16 22:44:12 ===
+Espacio después: 88M (antes: 36G)
+Archivos respaldados en: /backup/logs
